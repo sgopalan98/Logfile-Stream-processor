@@ -1,0 +1,26 @@
+{
+  "namespace": "logproc.data",
+  "type": "record",
+  "name": "LogStats",
+  "fields":[
+    {
+      "name": "app", "type": "string"
+    },
+    {
+      "name": "windowstart", "type": "long"
+    },
+    {
+      "name": "windowend", "type": "long"
+    },
+    {
+      "name": "numLogs", "type": "long"
+    },
+    {
+      "name": "numErrors", "type": "long"
+    },
+    {
+      "name": "flagErrors", "type": "long"
+    }
+  ]
+}
+
