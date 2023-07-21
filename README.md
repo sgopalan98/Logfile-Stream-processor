@@ -1,12 +1,6 @@
-# Course Project
-### The goal of this course project is to gain experience with creating a streaming data pipeline with cloud computing technologies by designing and implementing an actor-model service using [Akka](https://akka.io/) that ingests logfile generated data in real time and delivers it via an event-based service called [Kafka](https://kafka.apache.org/) to [Spark](https://spark.apache.org/) for further processing. This is a group project with each group consisting of one to six students. No student can participate in more than one group.
-### Grade: 20%
+# Log file analyzer - a distributed service!
+### This is a streaming data pipeline with an actor-model service using [Akka](https://akka.io/) that ingests logfile generated data in real time and delivers it via an event-based service called [Kafka](https://kafka.apache.org/) to [Spark](https://spark.apache.org/) for further processing. 
 
-## Team Members
-+ Santhanagopalan Krishnamoorthy
-+ Thiruvenkadam S R
-+ Ashwin Bhaskar Srivatsa
-+ Rahul Sai Samineni
 
 ## Development Environment
 + Language : Scala v
